@@ -1,4 +1,4 @@
-package curso.java.alex;
+package curso.java.alexsandro;
 
 public class Pessoa {
 	
