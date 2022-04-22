@@ -7,6 +7,8 @@ public class Pessoa {
 	private String sobrenome;
 	private int idade;
 	private Date dataNascimento;
+	private Date dataCadastro;
+	
 	
 	public Date getDataNascimento() {
 		return dataNascimento;
@@ -20,6 +22,7 @@ public class Pessoa {
 	public void setIdade(int idade) {
 		this.idade = idade;
 	}
+	
 	public String getNome() {
 		return nome;
 	}
